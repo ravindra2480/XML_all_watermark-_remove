@@ -1,0 +1,6 @@
+{
+  "name": "XML Watermark Remover",
+  "description": "Smart XML preset and media watermark remover to detect, clean, and strip watermarks, author credits, and overlays from XML project files and photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
